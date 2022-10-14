@@ -72,7 +72,7 @@ const App: React.FC = () => {
           setCompletedTodos={setCompletedTodos}
         />
         <p className="footer1">NB: Added task can be dragged from Active tasks to Completed task and vice versa</p>
-        <p className="footer2">Developed by - Ifeanyi Umeh</p>
+        <p className="footer2">*** Developed by - Ifeanyi Umeh ***</p>
       </div>
     </DragDropContext>
   );
