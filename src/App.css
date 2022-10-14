@@ -10,9 +10,16 @@
   font-family: 'Share Tech', sans-serif;
 }
 
-.footer {
+.footer1 {
   color: white;
   margin-top: 50px;
+  padding: 0px 20px;
+  text-align: center;
+}
+.footer2 {
+  color: white;
+  margin-top: 20px;
+  font-size: 16px;
 }
 
 .logo {
